@@ -1,0 +1,34 @@
+{
+    "name": "gatsby-theme-ghost-medium-zoom",
+    "version": "0.0.1",
+    "description": "Add modal to Ghost post images.",
+    "main": "index.js",
+    "dependencies": {
+        "medium-zoom": "^1.0.4"
+    },
+    "devDependencies": {},
+    "peerDependencies": {
+        "gatsby": "^2.0.0"
+      },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/LukasJokubas/gatsby-theme-ghost-medium-zoom.git"
+    },
+    "keywords": [
+      "gatsby",
+      "gatsby-plugin",
+      "image",
+      "picture",
+      "zoom",
+      "modal"
+    ],
+    "author": "Lukas Jakubauskas",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/LukasJokubas/gatsby-theme-ghost-medium-zoom/issues"
+    },
+    "homepage": "https://github.com/LukasJokubas/gatsby-theme-ghost-medium-zoom#readme"
+  }
